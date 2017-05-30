@@ -1,0 +1,3 @@
+[submodule "Educational/Helepolis"]
+	path = Educational/Helepolis
+	url = https://github.com/aetel/Helepolis.git
